@@ -1,0 +1,42 @@
+.inputField {
+    width: 500px;
+    height: 50px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.input {
+    text-align: center;
+    margin: 20px;
+}
+
+.edit {
+    text-align: center;
+    margin: 20px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto
+}
+
+.btn {
+    margin: 5px;
+}
+
+.names {
+    font-size: large;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.center1 {
+    text-align: center;
+}
+
+.show {
+    display: none;
+}
